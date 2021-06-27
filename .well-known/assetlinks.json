@@ -5,8 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.example.applinkdemo",
       "sha256_cert_fingerprints": [
-        "14:C4:28:E6:79:02:A4:57:8A:2F:F6:42:9E:EF:5B:E4:45:B8:E9:11:BC:79:0D:71:DA:F2:C7:D3:D9:0F:0F:7D",
-        "69:C8:7B:B4:D9:36:65:9D:D8:50:96:BA:3A:2E:87:8E:5B:E1:DD:C7:50:E9:1D:1B:05:D7:0E:3A:91:A0:7A:E6"
+        "69:C8:7B:B4:D9:36:65:9D:D8:50:96:BA:3A:2E:87:8E:5B:E1:DD:C7:50:E9:1D:1B:05:D7:0E:3A:91:A0:7A:E6",
+        "14:C4:28:E6:79:02:A4:57:8A:2F:F6:42:9E:EF:5B:E4:45:B8:E9:11:BC:79:0D:71:DA:F2:C7:D3:D9:0F:0F:7D"
       ]
     }
   }
